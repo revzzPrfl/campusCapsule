@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>campusCapsule - Campus Portal</title>
+  <meta name="description" content="An interactive portal for students and admins to stay connected, publish prototypes, report broken facilities, and share stories anonymously.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Root Container for dynamic injection -->
+  <div id="root"></div>
+
+  <!-- External Libraries -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+  <!-- DB Logic first, then Background Shaders, then App Router -->
+  <script src="db.js"></script>
+  <script src="backgrounds.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

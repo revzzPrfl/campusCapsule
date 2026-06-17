@@ -1,0 +1,13 @@
+{
+  "name": "campuscapsule",
+  "version": "1.0.0",
+  "description": "Campus Capsule - Campus Portal Web App",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
