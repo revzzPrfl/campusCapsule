@@ -1,2 +1,2 @@
 # campusCapsule
-an online platform for the students to stay connected to the updates, collaborations etc
+A full-stack campus management platform that centralizes announcements, events, student resources, and academic services into one seamless digital experience.
